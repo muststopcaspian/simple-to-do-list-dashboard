@@ -183,7 +183,7 @@ Tested dan compatible dengan:
 
 ## 📄 License
 
-Personal Project - Kiro Workspace  
+Personal Project  
 Created: September 2026
 
 ---
@@ -199,5 +199,5 @@ Created: September 2026
 
 ## 🙏 Credits
 
-Built with ❤️ using pure HTML, CSS, and JavaScript  
+Built with Kiro using pure HTML, CSS, and JavaScript  
 AI Evaluation powered by OpenAI GPT-3.5-turbo
