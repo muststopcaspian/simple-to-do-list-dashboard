@@ -9,7 +9,7 @@
 ### Step 2: Initial Setup (1 minute)
 1. **Klik icon ⚙️** di kanan atas
 2. **Upload foto profil** (optional) - max 2MB
-3. **Masukkan nama Anda** (contoh: "John")
+3. **Masukkan nama Anda** (contoh: "GibranWapres")
 4. (Optional) **Ubah Pomodoro time** jika mau (default 25 menit)
 5. **Masukkan OpenAI API key** untuk chatbot
 6. **Klik "SAVE SETTINGS"**
@@ -197,4 +197,4 @@ A: Yes, by design. Chat history di memory, tidak persistent. Fresh start setiap 
 **Welcome to BRUTALISM! 💪**  
 **It's bold. It's functional. It's unapologetic.**
 
-Built with ❤️ using vanilla HTML, CSS, JavaScript
+Built with Kiro IDE using vanilla HTML, CSS, JavaScript
